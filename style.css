@@ -1,0 +1,10 @@
+/*
+	Theme Name: Foundation
+	Theme URI: http://www.mrmstockholm.se
+	Author: MRM Stockholm
+	Description: Theme based on Zurbs Foundation 4 - http://foundation.zurb.com/
+*/
+
+@import url("css/normalize.css");
+@import url("css/foundation.min.css");
+@import url("css/app.css");
